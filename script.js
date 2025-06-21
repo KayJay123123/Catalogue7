@@ -1,5 +1,5 @@
 const DATA_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRGficGpTkygC-LtXsHvNScXEQ1t1yLffocy-y8XqVOApmPcPOSUEP8zybjeG1aiH4MIsy5gyAmaWx/pub?output=csv";
-const IMAGE_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQhZ_pLbd79Sb6NWoRz3LUvSRQ9MgK-q4-MHyA3t5E_z3DRy0piN-pD8vnCwz6XDA/pub?output=csv";
+const IMAGE_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRGficGpTkygC-LtXsHvNScXEQ1t1yLffocy-y8XqVOApmPcPOSUEP8zybjeG1aiH4MIsy5gyAmaWx/pub?gid=880648267&single=true&output=csv";
 
 let imageMap = {};
 
