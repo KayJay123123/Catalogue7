@@ -64,7 +64,7 @@ function renderCatalogue(data) {
         <tr>
           <th>Variant Code</th>
           <th>Description</th>
-          <th>Price</th>
+          <th>Price/Unit</th>
           <th>Unit</th>
           <th>WhatsApp</th>
         </tr>
