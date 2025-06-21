@@ -38,7 +38,8 @@ main {
 }
 
 .item-image {
-  max-width: 150px;
+  max-width: 350px;  /* increase from 150px to 250px */
+  height: auto;      /* maintain aspect ratio */
   margin-bottom: 0.5rem;
   display: block;
 }
