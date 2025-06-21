@@ -81,7 +81,7 @@ function renderCatalogue(data) {
           <td>${entry["Description"]}</td>
           <td>${entry["Price/Unit"]}</td>
           <td>${entry["Unit"]}</td>
-          <td><a target="_blank" href="https://wa.me/917986297302?text=${msg}"><i class="fab fa-whatsapp"></i></a></td>
+          <td><a target="_blank" href="https://wa.me/917986297302?text=${msg}"><i class="fab fa-whatsapp"></i>WhatsApp</a></td>
         `;
         table.appendChild(tr);
       });
